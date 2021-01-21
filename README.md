@@ -1,7 +1,7 @@
 # Myndigheter-GITHUB
 Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
 
-* Wikidata [svensk myndighet GITHUB](https://w.wiki/vBY)
+* Wikidata [svensk myndighet GITHUB](https://w.wiki/vBY) (kolumn Jupyter söker efter Notebooks i GITHUB)
   * saknar [GITHUB i WD](https://w.wiki/vAR)
   * Myndigheter med i Framework Programmes for Research and Technological Development [lista](https://w.wiki/vCa)
   * Myndigheters [reglerinsgbrev](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_kommuner/PSIdata_Myndigheter)
