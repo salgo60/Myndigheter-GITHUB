@@ -12,7 +12,9 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
   * som har [GITHUB](https://w.wiki/vBM)
 * [Who's using GitHub?](https://government.github.com/community/) - Government agencies at the national, state, and local level use GitHub to share and collaborate.
 ## Använder Jupyter Notebook
-TBD
+TBA
+### exempel utanför Sverige
+* Etalab - [analysera nivån av allergiska patologier i Frankrike vid dag för dag](https://github.com/etalab/Pathologies_allergiques/blob/41b7aa4a1d9c07467edac2e39dfa1fa4d63685a9/notebook/Pollen.ipynb) se deras [blog](https://www.etalab.gouv.fr/) 
 ### ej myndigheter men jobbar mot myndighetsdata
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
