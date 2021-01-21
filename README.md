@@ -11,4 +11,4 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
 TBD
 
 ## Misc
-' [GITHUB myndighetsdata](https://github.com/myndighetsdata)
+* [GITHUB myndighetsdata](https://github.com/myndighetsdata)
