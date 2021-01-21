@@ -22,7 +22,7 @@ TBA
 * LibraryOfCongress - [search](https://github.com/search?l=Jupyter+Notebook&p=3&q=org%3ALibraryOfCongress&type=Code)
 * US Census Bureau - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3Auscensusbureau)
 * [18f.gsa.gov/](https://18f.gsa.gov/) office in General Services Administration - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3A18F)
-### ej myndigheter men jobbar mot myndighetsdata
+### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
 ## Misc
