@@ -8,6 +8,7 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
 * WIKIDATA [svensk kommun GITHUB](https://w.wiki/vAP)  
 * [Bredare sökning](https://w.wiki/vAk)
   * som har [GITHUB](https://w.wiki/vAz)
+* [Who's using GitHub?](https://government.github.com/community/)
 ## Använder Jupyter Notebook
 TBD
 ### ej myndigheter men jobbar mot myndighetsdata
