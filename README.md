@@ -7,7 +7,7 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
   * Myndigheters [reglerinsgbrev](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_kommuner/PSIdata_Myndigheter)
 * WIKIDATA [svensk kommun GITHUB](https://w.wiki/vAP)  
 * [Bredare sökning](https://w.wiki/vAk)
-
+  * som har [GITHUB](https://w.wiki/vAz)
 ## Använder Jupyter Notebook
 TBD
 
