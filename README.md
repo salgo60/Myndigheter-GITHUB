@@ -5,6 +5,7 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
   * saknar [GITHUB i WD](https://w.wiki/vAR)
   * Myndigheter med i Framework Programmes for Research and Technological Development [lista](https://w.wiki/vAq)
   * Myndigheters [reglerinsgbrev](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_kommuner/PSIdata_Myndigheter)
+* Wikidata [myndigheter i världen med GITHUB](https://w.wiki/vBf)  
 * Wikidata [svensk kommuner karta](https://w.wiki/vBV)  
   * [karta kommuner med GITHUB](https://w.wiki/vBT) i Wikidata
 * [Bredare sökning](https://w.wiki/vAk)
