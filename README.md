@@ -18,6 +18,9 @@ TBA
 * European Centre for Medium-Range Weather Forecasts - [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://github.com/ecmwf/climetlab/blob/d2d3622b05ad487a956c2c29c2b80e13c3922348/docs/examples/09-weatherbench.ipynb)
 * USDepartmentofLabor - [Rare Occupation Classification](https://github.com/USDepartmentofLabor/Binary-Context-Transformer/blob/b80c26b82ab67e0d0bd728a7940685d160ae742d/Rare%20Occupation%20Classification.ipynb)
 * U.S. Dept of Defense - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3Adeptofdefense)
+* LibraryOfCongress - [search](https://github.com/search?l=Jupyter+Notebook&p=3&q=org%3ALibraryOfCongress&type=Code)
+* US Census Bureau - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3Auscensusbureau)
+* [18f.gsa.gov/](https://18f.gsa.gov/) office in General Services Administration - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3A18F)
 ### ej myndigheter men jobbar mot myndighetsdata
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
