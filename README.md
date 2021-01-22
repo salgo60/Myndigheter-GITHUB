@@ -16,6 +16,7 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
 TBA
 ### exempel utanför Sverige
 * [Interaktive Jupyter Notebooks using Open Data from the City of Zurich](https://data.stadt-zuerich.ch/showcase/mybinder-org-use-case-mit-open-data-der-stadt-zurich)
+* [Open Data Toronto Data Story: Bike Share Ridership](https://github.com/open-data-toronto/story-bike-share-ridership)
 * [video](https://www.youtube.com/watch?v=vdghnZUr0bI) - The Jupyter Notebook as a transparent way to document machine learning model development: A case study from a US defense agency / [GITHUB jupytercon-forecast](https://github.com/nudro/jupytercon-forecast)
 * Etalab - [analysera nivån av allergiska patologier i Frankrike vid dag för dag](https://github.com/etalab/Pathologies_allergiques/blob/41b7aa4a1d9c07467edac2e39dfa1fa4d63685a9/notebook/Pollen.ipynb) se deras [blog](https://www.etalab.gouv.fr/) 
 * European Centre for Medium-Range Weather Forecasts - [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://github.com/ecmwf/climetlab/blob/d2d3622b05ad487a956c2c29c2b80e13c3922348/docs/examples/09-weatherbench.ipynb)
