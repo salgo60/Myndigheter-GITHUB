@@ -17,7 +17,7 @@ TBA
 ### exempel utanför Sverige
 * [Interaktive Jupyter Notebooks using Open Data from the City of Zurich](https://data.stadt-zuerich.ch/showcase/mybinder-org-use-case-mit-open-data-der-stadt-zurich)
 * [Open Data Toronto Data Story: Bike Share Ridership](https://github.com/open-data-toronto/story-bike-share-ridership)
-* [Geospatial analysis of Barcelona’s bike rental service ...]https://towardsdatascience.com/geospatial-analysis-in-python-and-jupyter-notebooks-f90de25b0777)
+* [Geospatial analysis of Barcelona’s bike rental service ...](https://towardsdatascience.com/geospatial-analysis-in-python-and-jupyter-notebooks-f90de25b0777)
 * [video](https://www.youtube.com/watch?v=vdghnZUr0bI) - The Jupyter Notebook as a transparent way to document machine learning model development: A case study from a US defense agency / [GITHUB jupytercon-forecast](https://github.com/nudro/jupytercon-forecast)
 * Etalab - [analysera nivån av allergiska patologier i Frankrike vid dag för dag](https://github.com/etalab/Pathologies_allergiques/blob/41b7aa4a1d9c07467edac2e39dfa1fa4d63685a9/notebook/Pollen.ipynb) se deras [blog](https://www.etalab.gouv.fr/) 
 * European Centre for Medium-Range Weather Forecasts - [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://github.com/ecmwf/climetlab/blob/d2d3622b05ad487a956c2c29c2b80e13c3922348/docs/examples/09-weatherbench.ipynb)
@@ -29,6 +29,8 @@ TBA
 * [18f.gsa.gov/](https://18f.gsa.gov/) office in General Services Administration - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3A18F)
 * Belgien [Open biodiversity data publication by the INBO](https://github.com/inbo/data-publication)
 * [A First Dip into the NYC Open Data Pool](https://medium.com/@cruble/a-first-dip-into-the-nyc-open-data-pool-2902abff91e0) använder dataset [Urban Park Ranger Animal Condition Response](https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2)
+* [How to use COVID-19 Public Data in Spatial Analysis](https://carto.com/blog/how-to-use-covid19-data-spatial-analysis/)
+* [CityOfLosAngeles/covid19-indicators](https://github.com/CityOfLosAngeles/covid19-indicators) - will track COVID-19 indicators as LA considers its reopening strategy
 ### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
