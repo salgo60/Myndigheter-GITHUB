@@ -31,6 +31,7 @@ TBA
 * [A First Dip into the NYC Open Data Pool](https://medium.com/@cruble/a-first-dip-into-the-nyc-open-data-pool-2902abff91e0) använder dataset [Urban Park Ranger Animal Condition Response](https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2)
 * [How to use COVID-19 Public Data in Spatial Analysis](https://carto.com/blog/how-to-use-covid19-data-spatial-analysis/)
 * [CityOfLosAngeles/covid19-indicators](https://github.com/CityOfLosAngeles/covid19-indicators) - will track COVID-19 indicators as LA considers its reopening strategy
+* [CityOfLosAngeles/Homelessness_Analysis](https://github.com/CityOfLosAngeles/notebook-demos/blob/master/Homelessness_Analysis.ipynb)
 ### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
