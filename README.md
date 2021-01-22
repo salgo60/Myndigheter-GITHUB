@@ -27,6 +27,7 @@ TBA
 * US Census Bureau - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3Auscensusbureau)
 * [18f.gsa.gov/](https://18f.gsa.gov/) office in General Services Administration - [search](https://github.com/search?type=code&l=Jupyter+Notebook&q=org%3A18F)
 * Belgien [Open biodiversity data publication by the INBO](https://github.com/inbo/data-publication)
+* [A First Dip into the NYC Open Data Pool](https://medium.com/@cruble/a-first-dip-into-the-nyc-open-data-pool-2902abff91e0) använder dataset [Urban Park Ranger Animal Condition Response](https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2)
 ### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
