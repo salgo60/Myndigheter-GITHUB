@@ -10,7 +10,7 @@ Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
   * [karta kommuner med GITHUB](https://w.wiki/vBT) i Wikidata
 * [Bredare sökning](https://w.wiki/vAk)
   * som har [GITHUB](https://w.wiki/vCM) / [karta](https://w.wiki/vCF)
-    * hela världen som har [GITHUB](https://w.wiki/vCn) / [karta]()
+    * hela världen som har [GITHUB](https://w.wiki/vJC) / [karta](https://w.wiki/vJM)
 * [Who's using GitHub?](https://government.github.com/community/) - Government agencies at the national, state, and local level use GitHub to share and collaborate.
 ## Använder Jupyter Notebook
 TBA
