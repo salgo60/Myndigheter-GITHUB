@@ -32,6 +32,8 @@ TBA
 * [How to use COVID-19 Public Data in Spatial Analysis](https://carto.com/blog/how-to-use-covid19-data-spatial-analysis/)
 * [CityOfLosAngeles/covid19-indicators](https://github.com/CityOfLosAngeles/covid19-indicators) - will track COVID-19 indicators as LA considers its reopening strategy
 * [CityOfLosAngeles/Homelessness_Analysis](https://github.com/CityOfLosAngeles/notebook-demos/blob/master/Homelessness_Analysis.ipynb)
+* [CityOfLosAngeles/Automated Traffic Surveillance and Control data](https://github.com/CityOfLosAngeles/atsac-etl-analysis/blob/master/notebooks/atsac-athena.ipynb)
+* [Predicting District of Columbia Traffic](https://github.com/MikeS-nth/portfolio/blob/master/DC_Traffic_Prediction/Predicting_DC_Traffic_Mike_Sanders.ipynb)
 ### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
