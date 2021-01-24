@@ -39,6 +39,9 @@ TBA
 ### ej myndigheter men jobbar mot svenska myndigheter
 * [christopherkullenberg/offentligaCMS](https://github.com/christopherkullenberg/offentligaCMS/blob/master/CMSdataanalys.ipynb) - letar igenom kommuner / myndigheter efter vilka [CMS](https://en.wikipedia.org/wiki/Content_management_system) system som används
 
+## GITHUB Trending Jupyter Notebook
+* [Developers](https://github.com/trending/developers/jupyter-notebook?since=monthly)
+* [Repository](https://github.com/trending/jupyter-notebook?since=monthly)
 ## Misc
 * [GITHUB myndighetsdata](https://github.com/myndighetsdata)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
