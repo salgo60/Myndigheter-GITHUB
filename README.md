@@ -1,5 +1,5 @@
 # Myndigheter-GITHUB
-Tanken att hitta myndigheter på GITHUB och om dom har Notebooks för sitt data
+Tanken att hitta myndigheter på GITHUB dvs, deras användarnamn på GITHUB och om dom har Notebooks för sitt eller andras data
 
 * Wikidata [svensk myndighet GITHUB](https://w.wiki/vBY) (kolumn Jupyter söker efter Notebooks i GITHUB)
   * saknar [GITHUB i WD](https://w.wiki/vAR)
