@@ -50,9 +50,11 @@ TBA
 * [Most stars](https://github.com/search?o=desc&q=Jupiter+notebook&s=stars&type=Repositories)
  
 ## Misc
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [GITHUB myndighetsdata](https://github.com/myndighetsdata)
   * [Government apps](https://github.com/collections/government)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [Estimate of Public Jupyter Notebooks on GitHub](https://nbviewer.jupyter.org/github/parente/nbestimate/blob/master/estimate.ipynb) > 9 777 035
 * new Wikidata property suggestion for [Github Topic](https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/github_topic)
 * [Project Open Data](https://project-open-data.cio.gov/)
+* [Open Knowledge - Öppen Data](https://prezi.com/gxli-bpyese7/open-knowledge-oppen-data/) Maximize the usage of Open Data - Enabling Reproducable Open Data
