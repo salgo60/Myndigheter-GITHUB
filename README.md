@@ -17,7 +17,7 @@ Tanken att hitta myndigheter på GITHUB dvs, deras användarnamn på GITHUB och 
 
 ## Använder Jupyter Notebook
 ### Sverige
-TBA
+* Jobtechdev: [Microservice: Historical Job Postings Statistics](https://github.com/simonbe/afhistorik)¶ / [Notebook](https://github.com/simonbe/afhistorik/blob/master/notebooks/API_description.ipynb)
 ### exempel utanför Sverige
 * [Interaktive Jupyter Notebooks using Open Data from the City of Zurich](https://data.stadt-zuerich.ch/showcase/mybinder-org-use-case-mit-open-data-der-stadt-zurich)
 * [Open Data Toronto Data Story: Bike Share Ridership](https://github.com/open-data-toronto/story-bike-share-ridership)
