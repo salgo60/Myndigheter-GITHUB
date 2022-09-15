@@ -4,7 +4,7 @@ Tanken att hitta myndigheter på GITHUB dvs, deras användarnamn på GITHUB och 
 * Wikidata [svensk myndighet GITHUB](https://w.wiki/vBY) (kolumn Jupyter söker efter Notebooks i GITHUB)
   * saknar [GITHUB i WD](https://w.wiki/vAR)
   * Myndigheter med i Framework Programmes for Research and Technological Development [lista](https://w.wiki/vCa)
-  * Myndigheters [reglerinsgbrev](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_kommuner/PSIdata_Myndigheter)
+  * Myndigheters [regleringsbrev](https://sv.wikipedia.org/wiki/Wikipedia:Projekt_svenska_kommuner/PSIdata_Myndigheter)
 * Wikidata [myndigheter i världen med GITHUB](https://w.wiki/vBf) / [karta](https://w.wiki/vC6)
 * Wikidata [svensk kommuner karta](https://w.wiki/vBV)  
   * [karta kommuner med GITHUB](https://w.wiki/vBT) i Wikidata
