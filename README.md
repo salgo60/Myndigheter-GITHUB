@@ -13,7 +13,7 @@ Tanken att hitta myndigheter på GITHUB dvs, deras användarnamn på GITHUB och 
     * hela världen som har [GITHUB](https://w.wiki/vJS) / [karta](https://w.wiki/vKG)
 * [Who's using GitHub?](https://government.github.com/community/) - Government agencies at the national, state, and local level use GitHub to share and collaborate.
 
-![Map](https://github.com/salgo60/Myndigheter-GITHUB/blob/main/Data/Map.png?raw=true)         
+[![Map](https://github.com/salgo60/Myndigheter-GITHUB/blob/main/Data/Map.png?raw=true)](https://w.wiki/vKG)
 
 ## Använder Jupyter Notebook
 ### Sverige
